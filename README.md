@@ -5,3 +5,6 @@ There has been a revenue decline for a Portuguese bank and they would like to kn
 
 ## Objective
 Predict if the client will subscribe to a term deposit based on the analysis of the marketing campaigns the bank performed.
+
+## Process
+![Untitled](https://user-images.githubusercontent.com/67741034/94954796-3d857b00-0507-11eb-89f8-34585d25d3f6.png)
