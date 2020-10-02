@@ -17,3 +17,6 @@ There has been a revenue decline for a Portuguese bank and they would like to kn
 - RandomForest Classfier
 - XGBClassifier
 - GradientBoostingClassifier
+
+## Final insights & decision
+Refer the "Final result" pdf given!
