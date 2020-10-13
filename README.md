@@ -11,7 +11,7 @@ There has been a revenue decline for a Portuguese bank and they would like to kn
 ## Process
 ![Untitled](https://user-images.githubusercontent.com/67741034/94957104-d5d12f00-050a-11eb-9773-e126ceea201d.png)
 
-## Algorathims used
+## Algorithms used
 - Logistic Regression
 - DecisionTree Classifier
 - RandomForest Classfier
